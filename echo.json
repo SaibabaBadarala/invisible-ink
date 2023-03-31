@@ -1,1 +1,2 @@
+header("content-type:application/json");
 {"message": "ping"}
